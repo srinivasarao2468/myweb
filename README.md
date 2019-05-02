@@ -1,1 +1,1 @@
-[![JavaHomeTech][logo]]
+[![JavaHomeTech][logo]](http://javahometech.in)
